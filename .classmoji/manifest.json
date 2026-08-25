@@ -1,0 +1,268 @@
+{
+  "repositories": {
+    "case-study": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "1a6f1d09-02dd-451a-84f0-d50b556c4af2": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    },
+    "claude-hacktivity": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "ec62f32a-1da6-4190-843a-8f4e887998b4": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    },
+    "pre-project": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "8a915570-1044-4930-adc9-693d6c308c7b": {
+          "pages": [],
+          "slides": []
+        },
+        "ba8a0d92-0487-48cc-ac3c-e6aaeb4dc826": {
+          "pages": [],
+          "slides": []
+        },
+        "1cf56ea9-c3e6-478a-8519-46add3684dba": {
+          "pages": [],
+          "slides": []
+        },
+        "802bd62b-9173-4d47-b6cf-9c136613bc67": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    },
+    "project": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "db922a59-c190-432d-8ae1-a598623fd099": {
+          "pages": [],
+          "slides": []
+        },
+        "7c1acb81-5f3f-4d69-8673-e80a009cdef5": {
+          "pages": [],
+          "slides": []
+        },
+        "b6bf89ab-870b-452a-bab2-f4beaeba7c2c": {
+          "pages": [],
+          "slides": []
+        },
+        "2095c7bf-e2c0-40c2-a25f-8f44bc9d26f0": {
+          "pages": [],
+          "slides": []
+        },
+        "825847bc-33a8-4b83-85bc-212301483291": {
+          "pages": [],
+          "slides": []
+        },
+        "15e5835c-60c1-4c4c-84d1-2854781be129": {
+          "pages": [],
+          "slides": []
+        },
+        "c2f65e44-63c3-44fc-9d70-97aa9eb8b192": {
+          "pages": [],
+          "slides": []
+        },
+        "8a4e0bb8-27cf-4fc2-9f1b-81bfecc20924": {
+          "pages": [],
+          "slides": []
+        },
+        "6ef810ae-eabc-4b5c-9248-0436184a0d24": {
+          "pages": [],
+          "slides": []
+        },
+        "15f09ef9-6ce4-4a2d-9f20-908cf12117c2": {
+          "pages": [],
+          "slides": []
+        },
+        "66eefe4e-21d1-4451-bc5b-59508732c01e": {
+          "pages": [],
+          "slides": []
+        },
+        "de7b5eae-3e97-4d81-9d01-dad2448901ad": {
+          "pages": [],
+          "slides": []
+        },
+        "8296fcf3-86d3-4182-8e6d-16b82da01a8d": {
+          "pages": [],
+          "slides": []
+        },
+        "b15c4619-3ba8-4971-8769-62785a1e67b2": {
+          "pages": [],
+          "slides": []
+        },
+        "e8bd27e5-e6e2-4ae6-afce-ceef3db9f93f": {
+          "pages": [],
+          "slides": []
+        },
+        "9a7d25a3-c2d2-4ff6-b340-13320aa7965e": {
+          "pages": [],
+          "slides": []
+        },
+        "d6492ed2-2569-42cc-ade8-45089da009f8": {
+          "pages": [],
+          "slides": []
+        },
+        "e8ef3192-d162-47b6-a713-8b1fa5e00196": {
+          "pages": [],
+          "slides": []
+        },
+        "8eef3639-323e-456d-a55e-eb30a2f1b137": {
+          "pages": [],
+          "slides": []
+        },
+        "4454c037-3799-49c7-994b-e6fd2253ce9d": {
+          "pages": [],
+          "slides": []
+        },
+        "02124418-7631-4584-b840-20798ff6bd03": {
+          "pages": [],
+          "slides": []
+        },
+        "fc6b74f5-28a3-4f1a-854e-1ec8658c3220": {
+          "pages": [],
+          "slides": []
+        },
+        "9b826ec3-51ab-42d9-a32e-d0dabe960c6b": {
+          "pages": [],
+          "slides": []
+        },
+        "6b4ab370-45cc-4dd1-b400-1af92096818d": {
+          "pages": [],
+          "slides": []
+        },
+        "89d2cce8-1c0d-45fe-a399-08a682ba73a7": {
+          "pages": [],
+          "slides": []
+        },
+        "fb4983e4-5f27-45f1-bde0-ec3a71599276": {
+          "pages": [],
+          "slides": []
+        },
+        "8ef1bca9-2c18-4ffb-8e81-4508f7c89885": {
+          "pages": [],
+          "slides": []
+        },
+        "5093f321-0f85-43e9-81bc-9d0958f6558c": {
+          "pages": [],
+          "slides": []
+        },
+        "cef8966c-446a-41e0-abf7-d2172b717edd": {
+          "pages": [],
+          "slides": []
+        },
+        "1ccd54aa-26ea-453e-8a95-baf2dd29b521": {
+          "pages": [],
+          "slides": []
+        },
+        "7d5120ce-8c14-44e1-86d3-eca3c7202cc6": {
+          "pages": [],
+          "slides": []
+        },
+        "ff190151-9cb3-4181-85dd-fcc987390c93": {
+          "pages": [],
+          "slides": []
+        },
+        "1c7c1f91-3069-4e3b-9e93-b7822af3bb2b": {
+          "pages": [],
+          "slides": []
+        },
+        "8519c300-c2ca-4230-bf6b-4ff95cbbbaab": {
+          "pages": [],
+          "slides": []
+        },
+        "eafcf34f-1b71-42fc-8a48-85a1637a6598": {
+          "pages": [],
+          "slides": []
+        },
+        "b60522d9-13c3-4552-8541-accfad9f4b9c": {
+          "pages": [],
+          "slides": []
+        },
+        "6aaae5a7-2091-440e-a38d-6ee01aceb116": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    }
+  },
+  "general": {
+    "pages": [
+      "logistics",
+      "dartmouth-cs98",
+      "need-finding-interviews",
+      "share-a-paper",
+      "hack-a-thing-1",
+      "close-out-sprints-for-term",
+      "winterim-work",
+      "user-research",
+      "ui-design-mockups",
+      "term-demos-and-testing",
+      "term-1-summary",
+      "state-of-the-art-research",
+      "sprint-2-implementation-data-wiring",
+      "sprint-1-2-transition",
+      "sprint-5-6-transition",
+      "sprint-5-user-testing-plan",
+      "sprint-4-5-transition",
+      "sprint-4-testable-mvp",
+      "sprint-3-4-transition",
+      "sprint-3-main-features-progress",
+      "sprint-2-3-transition",
+      "scaffolding",
+      "project-proposal",
+      "sprint-1-planning-your-first-sprint",
+      "pitch",
+      "hack-a-thing-2",
+      "group-dynamics-worksheet",
+      "prototyping",
+      "first-team-meeting-worksheet",
+      "feature-spec-and-roadmap",
+      "claude-hacktivity",
+      "class-term-2-welcome",
+      "personal-success",
+      "sprint-1-term-2-planning-and-start-t2",
+      "project-self-reflection",
+      "pivot-or-persevere",
+      "smoke-test",
+      "sprint-1-retrospective-start-sprint-2-t2",
+      "sprint-2-retrospective-start-sprint-3-t2",
+      "figma-prototype-v2",
+      "sprint-3-retrospective-start-sprint-4-t2",
+      "class-user-testing-the-figma",
+      "sprint-4-retrospective-start-sprint-5-t2",
+      "success-metrics-and-validation-plan",
+      "sprint-5-retrospective-start-sprint-6-t2",
+      "sprint-6-retrospective-start-sprint-7-t2",
+      "sprint-7-retrospective-start-sprint-8-t2",
+      "publishing-and-ad-campaign",
+      "sprint-8-retrospective-start-sprint-9-t2",
+      "inbound-marketing",
+      "sprint-9-retrospective-t2",
+      "final-submission",
+      "final-project-submission-deprecated"
+    ],
+    "slides": [
+      "welcome",
+      "user-personas",
+      "existential-duty",
+      "interviews",
+      "welcome-back",
+      "hack-a-thing-1",
+      "first-sprint",
+      "design-plus",
+      "code-review"
+    ]
+  }
+}
