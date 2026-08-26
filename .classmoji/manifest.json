@@ -256,7 +256,8 @@
       "roadmap-surgery",
       "security-review",
       "ship-it",
-      "the-evidence-reckoning"
+      "the-evidence-reckoning",
+      "code-review-and-security-audit"
     ],
     "slides": [
       "welcome",
