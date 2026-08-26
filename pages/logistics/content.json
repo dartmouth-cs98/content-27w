@@ -249,7 +249,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Weekly Progress: Instructor Checkins, ZenHub, Participation/Attendance — 30%",
+          "text": "Weekly Progress: Instructor Checkins, Github, Participation/Attendance — 30%",
           "styles": {}
         }
       ],
@@ -343,7 +343,7 @@
       "content": [
         {
           "type": "text",
-          "text": "The Internet",
+          "text": "The Internet & AI",
           "styles": {}
         }
       ],
@@ -360,7 +360,7 @@
       "content": [
         {
           "type": "text",
-          "text": "The Internet will be a large source of information and help to you as you do your assignments in this class. We want to encourage you to scour the internet / stackoverflow / chatGPT for help, ",
+          "text": "The Internet and AI will be a large source of information and help to you as you do your assignments in this class. We want to encourage you to scour the internet / stackoverflow / chatGPT / Claude for help, ",
           "styles": {}
         },
         {
