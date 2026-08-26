@@ -233,7 +233,7 @@
     },
     {
       "id": "be0fcbfc-4061-412f-8693-b3747186955b",
-      "type": "bulletListItem",
+      "type": "paragraph",
       "props": {
         "backgroundColor": "default",
         "textColor": "default",
@@ -253,14 +253,25 @@
       "content": [
         {
           "type": "text",
-          "text": "🏄 This class will be an adventure and requires active participation both inside and outside of class.",
+          "text": "🏄 This class will be an adventure and requires active participation both inside and outside of class. ",
           "styles": {}
         }
       ],
       "children": []
     },
     {
-      "id": "b5a7559f-6196-4490-8811-7a887a4ad6e5",
+      "id": "ef5a7c00-07e6-47f5-991a-dcac719b4694",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "9bbee7c6-5f0f-43d1-b21a-4ee5f99b1cca",
       "type": "paragraph",
       "props": {
         "backgroundColor": "default",
