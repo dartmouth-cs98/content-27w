@@ -1,6 +1,15 @@
 {
   "blocks": [
     {
+      "id": "77385226-d72b-4466-b431-3da5e459d4f4",
+      "type": "navGrid",
+      "props": {
+        "entries": "[{\"kind\":\"page\",\"pageId\":\"0c30ca97-7a73-44ea-a827-99c0667dd5f6\",\"title\":\"Logistics\"}]",
+        "columns": 2
+      },
+      "children": []
+    },
+    {
       "id": "2bc8120b-3f27-4ba3-83f4-c894c7a0c8ef",
       "type": "paragraph",
       "props": {
@@ -18,52 +27,77 @@
       "children": []
     },
     {
-      "id": "35808654-9647-4fe1-8d83-006f9dc6cc7a",
-      "type": "image",
-      "props": {
-        "textAlignment": "left",
-        "backgroundColor": "default",
-        "name": "",
-        "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-27w/main/pages/dartmouth-cs98/assets/dev-magic-1767558263720.gif",
-        "caption": "",
-        "showPreview": true,
-        "previewWidth": 314
-      },
-      "children": []
-    },
-    {
-      "id": "672aaffe-702e-4c25-83ec-9b687e3a5e31",
-      "type": "paragraph",
-      "props": {
-        "backgroundColor": "default",
-        "textColor": "default",
-        "textAlignment": "left"
-      },
-      "content": [
+      "id": "1746533e-55fa-48f4-a8ca-683746fe44f2",
+      "type": "columnList",
+      "props": {},
+      "children": [
         {
-          "type": "text",
-          "text": "Open only to students pursuing a major in Computer Science or a modified major with Computer Science as the primary part. 98.01 and 98.02 constitute a two course sequence, and they must be taken in consecutive terms, either fall/winter or winter/spring, normally in the senior year.",
-          "styles": {}
-        }
-      ],
-      "children": []
-    },
-    {
-      "id": "afb5e98b-c201-4ba6-8f63-ed2ef5a2ee12",
-      "type": "paragraph",
-      "props": {
-        "backgroundColor": "default",
-        "textColor": "default",
-        "textAlignment": "left"
-      },
-      "content": [
+          "id": "200e0c80-b25a-4778-a195-b2a332cac735",
+          "type": "column",
+          "props": {
+            "width": 1
+          },
+          "children": [
+            {
+              "id": "35808654-9647-4fe1-8d83-006f9dc6cc7a",
+              "type": "image",
+              "props": {
+                "textAlignment": "left",
+                "backgroundColor": "default",
+                "name": "",
+                "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-27w/main/pages/dartmouth-cs98/assets/dev-magic-1767558263720.gif",
+                "caption": "",
+                "showPreview": true,
+                "previewWidth": 331
+              },
+              "children": []
+            }
+          ]
+        },
         {
-          "type": "text",
-          "text": "At least two courses from COSC 50-69 or at least three courses from COSC 50-89, or permission of instructor.",
-          "styles": {}
+          "id": "5286239a-7531-44a8-a70f-81efa032d32b",
+          "type": "column",
+          "props": {
+            "width": 1
+          },
+          "children": [
+            {
+              "id": "672aaffe-702e-4c25-83ec-9b687e3a5e31",
+              "type": "paragraph",
+              "props": {
+                "backgroundColor": "default",
+                "textColor": "default",
+                "textAlignment": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Open only to students pursuing a major in Computer Science or a modified major with Computer Science as the primary part. 98.01 and 98.02 constitute a two course sequence, and they must be taken in consecutive terms, either fall/winter or winter/spring, normally in the senior year.",
+                  "styles": {}
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "afb5e98b-c201-4ba6-8f63-ed2ef5a2ee12",
+              "type": "paragraph",
+              "props": {
+                "backgroundColor": "default",
+                "textColor": "default",
+                "textAlignment": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "At least two courses from COSC 50-69 or at least three courses from COSC 50-89, or permission of instructor.",
+                  "styles": {}
+                }
+              ],
+              "children": []
+            }
+          ]
         }
-      ],
-      "children": []
+      ]
     },
     {
       "id": "f1b33674-38b7-4e2a-b422-c4e9de47ccad",
@@ -80,6 +114,17 @@
           "styles": {}
         }
       ],
+      "children": []
+    },
+    {
+      "id": "b4013706-a335-4503-b9b3-8db0096a4567",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
       "children": []
     },
     {
@@ -184,6 +229,17 @@
           "styles": {}
         }
       ],
+      "children": []
+    },
+    {
+      "id": "be0fcbfc-4061-412f-8693-b3747186955b",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
       "children": []
     },
     {
@@ -380,7 +436,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Teams will be ~6 members each. Group dynamics and roles will be discussed. Working together collaboratively is central to this course. Groups will be assigned through a combination of voting on ideas, team member preference and balancing.",
+          "text": "Teams will be ~5 members each. Group dynamics and roles will be discussed. Working together collaboratively is central to this course. Groups will be assigned through a combination of voting on ideas, team member preference and balancing.",
           "styles": {}
         }
       ],
@@ -533,7 +589,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Winter/Spring: 26W (98.01) - 26S (98.02) ",
+          "text": "Winter/Spring: 27W (98.01) - 27S (98.02) ",
           "styles": {
             "bold": true
           }
@@ -553,23 +609,6 @@
         {
           "type": "text",
           "text": "98.01: 10A class in 116 ECSC ",
-          "styles": {}
-        }
-      ],
-      "children": []
-    },
-    {
-      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "type": "bulletListItem",
-      "props": {
-        "backgroundColor": "default",
-        "textColor": "default",
-        "textAlignment": "left"
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "98.02: 10A class in Wilder 104 ",
           "styles": {}
         }
       ],
