@@ -254,7 +254,8 @@
       "final-project-submission-deprecated",
       "prove-it-with-strangers",
       "roadmap-surgery",
-      "security-review"
+      "security-review",
+      "code-review-amp-security-audit"
     ],
     "slides": [
       "welcome",
