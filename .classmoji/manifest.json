@@ -150,10 +150,6 @@
           "pages": [],
           "slides": []
         },
-        "8ef1bca9-2c18-4ffb-8e81-4508f7c89885": {
-          "pages": [],
-          "slides": []
-        },
         "5093f321-0f85-43e9-81bc-9d0958f6558c": {
           "pages": [],
           "slides": []
@@ -193,14 +189,18 @@
         "6aaae5a7-2091-440e-a38d-6ee01aceb116": {
           "pages": [],
           "slides": []
+        },
+        "8ef1bca9-2c18-4ffb-8e81-4508f7c89885": {
+          "pages": [],
+          "slides": []
         }
       }
     }
   },
   "general": {
     "pages": [
-      "logistics",
       "dartmouth-cs98",
+      "logistics",
       "need-finding-interviews",
       "share-a-paper",
       "hack-a-thing-1",
@@ -251,7 +251,8 @@
       "inbound-marketing",
       "sprint-9-retrospective-t2",
       "final-submission",
-      "final-project-submission-deprecated"
+      "final-project-submission-deprecated",
+      "prove-it-with-strangers"
     ],
     "slides": [
       "welcome",
