@@ -4,7 +4,7 @@
       "id": "77385226-d72b-4466-b431-3da5e459d4f4",
       "type": "navGrid",
       "props": {
-        "entries": "[{\"kind\":\"page\",\"pageId\":\"0c30ca97-7a73-44ea-a827-99c0667dd5f6\",\"title\":\"Logistics\"}]",
+        "entries": "[{\"kind\":\"page\",\"pageId\":\"0c30ca97-7a73-44ea-a827-99c0667dd5f6\",\"title\":\"Logistics\"},{\"kind\":\"external\",\"url\":\"https://brunchlabs.notion.site/b692999ee80945df988cf6cf0f60ddfe?v=289cacaaa4494f7092844e03ddb21f29\",\"label\":\"Past Projects\"}]",
         "columns": 2
       },
       "children": []
@@ -27,35 +27,12 @@
       "children": []
     },
     {
-      "id": "1746533e-55fa-48f4-a8ca-683746fe44f2",
+      "id": "5ec76a3b-2166-4672-93fb-7d6a1e1ddf05",
       "type": "columnList",
       "props": {},
       "children": [
         {
-          "id": "200e0c80-b25a-4778-a195-b2a332cac735",
-          "type": "column",
-          "props": {
-            "width": 1
-          },
-          "children": [
-            {
-              "id": "35808654-9647-4fe1-8d83-006f9dc6cc7a",
-              "type": "image",
-              "props": {
-                "textAlignment": "left",
-                "backgroundColor": "default",
-                "name": "",
-                "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-27w/main/pages/dartmouth-cs98/assets/dev-magic-1767558263720.gif",
-                "caption": "",
-                "showPreview": true,
-                "previewWidth": 331
-              },
-              "children": []
-            }
-          ]
-        },
-        {
-          "id": "5286239a-7531-44a8-a70f-81efa032d32b",
+          "id": "8a7cc151-7b08-4541-b4ab-ae04f5c5533e",
           "type": "column",
           "props": {
             "width": 1
@@ -93,6 +70,29 @@
                   "styles": {}
                 }
               ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "063a6004-62ff-42c3-ac99-3021cafd5592",
+          "type": "column",
+          "props": {
+            "width": 1
+          },
+          "children": [
+            {
+              "id": "35808654-9647-4fe1-8d83-006f9dc6cc7a",
+              "type": "image",
+              "props": {
+                "textAlignment": "left",
+                "backgroundColor": "default",
+                "name": "",
+                "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-27w/main/pages/dartmouth-cs98/assets/dev-magic-1767558263720.gif",
+                "caption": "",
+                "showPreview": true,
+                "previewWidth": 331
+              },
               "children": []
             }
           ]
