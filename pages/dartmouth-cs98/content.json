@@ -619,7 +619,7 @@
       "content": [
         {
           "type": "text",
-          "text": "98.01: 10A class in 009 ECSC ",
+          "text": "98.01: 10A class in 116 ECSC ",
           "styles": {}
         }
       ],
@@ -640,6 +640,19 @@
           "styles": {}
         }
       ],
+      "children": []
+    },
+    {
+      "id": "9cc5a120-059c-4f27-8ccb-3067f81e6102",
+      "type": "image",
+      "props": {
+        "textAlignment": "left",
+        "backgroundColor": "default",
+        "name": "IMG_0393.jpeg",
+        "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-27w/main/pages/dartmouth-cs98/assets/img-0393-1767558263720.jpeg",
+        "caption": "",
+        "showPreview": true
+      },
       "children": []
     },
     {
