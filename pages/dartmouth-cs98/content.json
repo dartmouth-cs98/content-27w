@@ -663,17 +663,11 @@
         "textColor": "default",
         "textAlignment": "left"
       },
-      "content": [
-        {
-          "type": "text",
-          "text": "See Calendar for more details",
-          "styles": {}
-        }
-      ],
+      "content": [],
       "children": []
     },
     {
-      "id": "76f85834-2715-4b40-b778-733dacf4b13c",
+      "id": "30629b75-0bcf-414a-bf21-8eb1d3bb2762",
       "type": "paragraph",
       "props": {
         "backgroundColor": "default",
